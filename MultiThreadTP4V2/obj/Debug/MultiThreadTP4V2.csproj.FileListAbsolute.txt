@@ -1,0 +1,6 @@
+c:\users\alexa_000\documents\visual studio 2013\Projects\MultiThreadTP4\MultiThreadTP4V2\bin\Debug\MultiThreadTP4V2.exe.config
+c:\users\alexa_000\documents\visual studio 2013\Projects\MultiThreadTP4\MultiThreadTP4V2\bin\Debug\MultiThreadTP4V2.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\MultiThreadTP4\MultiThreadTP4V2\bin\Debug\MultiThreadTP4V2.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\MultiThreadTP4\MultiThreadTP4V2\obj\Debug\MultiThreadTP4V2.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\MultiThreadTP4\MultiThreadTP4V2\obj\Debug\MultiThreadTP4V2.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\MultiThreadTP4\MultiThreadTP4V2\obj\Debug\MultiThreadTP4V2.csprojResolveAssemblyReference.cache
